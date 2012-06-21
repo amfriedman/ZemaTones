@@ -1,0 +1,7 @@
+[29-Nov-2011 21:34:52] PHP Fatal error:  Call to undefined function  add_action() in /home/zematone/public_html/wp-content/plugins/woocommerce/admin/writepanels/writepanel-product-type-variable.php on line 23
+[29-Nov-2011 21:37:35] PHP Fatal error:  Call to undefined function  add_action() in /home/zematone/public_html/wp-content/plugins/woocommerce/admin/writepanels/writepanel-product-type-downloadable.php on line 42
+[29-Nov-2011 21:54:28] PHP Fatal error:  Call to undefined function  add_filter() in /home/zematone/public_html/wp-content/plugins/woocommerce/admin/writepanels/writepanel-coupon_data.php on line 62
+[29-Nov-2011 21:57:58] PHP Fatal error:  Call to undefined function  add_action() in /home/zematone/public_html/wp-content/plugins/woocommerce/admin/writepanels/writepanel-product-type-variable.php on line 23
+[29-Nov-2011 21:58:06] PHP Fatal error:  Call to undefined function  add_action() in /home/zematone/public_html/wp-content/plugins/woocommerce/admin/writepanels/writepanel-order_data.php on line 345
+[29-Nov-2011 22:00:03] PHP Fatal error:  Call to undefined function  add_action() in /home/zematone/public_html/wp-content/plugins/woocommerce/admin/writepanels/writepanel-product-type-variable.php on line 23
+[29-Nov-2011 22:06:40] PHP Fatal error:  Call to undefined function  add_action() in /home/zematone/public_html/wp-content/plugins/woocommerce/admin/writepanels/writepanel-product-type-downloadable.php on line 42

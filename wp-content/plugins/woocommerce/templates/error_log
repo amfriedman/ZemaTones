@@ -1,0 +1,7 @@
+[29-Nov-2011 20:37:09] PHP Fatal error:  Call to undefined function  apply_filters() in /home/zematone/public_html/wp-content/plugins/woocommerce/templates/loop-shop.php on line 8
+[29-Nov-2011 20:45:49] PHP Fatal error:  Call to undefined function  get_header() in /home/zematone/public_html/wp-content/plugins/woocommerce/templates/single-product.php on line 1
+[29-Nov-2011 20:46:38] PHP Fatal error:  Call to undefined function  get_header() in /home/zematone/public_html/wp-content/plugins/woocommerce/templates/archive-product.php on line 1
+[29-Nov-2011 20:48:00] PHP Fatal error:  Call to undefined function  get_header() in /home/zematone/public_html/wp-content/plugins/woocommerce/templates/product_taxonomy.php on line 1
+[29-Nov-2011 20:52:48] PHP Fatal error:  Call to undefined function  woocommerce_get_template() in /home/zematone/public_html/wp-content/plugins/woocommerce/templates/taxonomy-product_tag.php on line 1
+[29-Nov-2011 20:52:58] PHP Fatal error:  Call to undefined function  woocommerce_get_template() in /home/zematone/public_html/wp-content/plugins/woocommerce/templates/taxonomy-product_cat.php on line 1
+[29-Nov-2011 20:54:08] PHP Fatal error:  Call to undefined function  comments_open() in /home/zematone/public_html/wp-content/plugins/woocommerce/templates/single-product-reviews.php on line 2

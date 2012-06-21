@@ -1,0 +1,1 @@
+[15-Jan-2012 02:54:39] PHP Fatal error:  Call to undefined function  get_option() in /home/zematone/public_html/wp-content/plugins/wpaudio-mp3-player/wpaudio.php on line 33

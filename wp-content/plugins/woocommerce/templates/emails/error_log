@@ -1,0 +1,10 @@
+[29-Nov-2011 21:49:48] PHP Fatal error:  Call to undefined function  get_bloginfo() in /home/zematone/public_html/wp-content/plugins/woocommerce/templates/emails/email_header.php on line 6
+[29-Nov-2011 21:50:42] PHP Fatal error:  Call to undefined function  woocommerce_hex_lighter() in /home/zematone/public_html/wp-content/plugins/woocommerce/templates/emails/email_footer.php on line 20
+[10-Dec-2011 10:56:46] PHP Fatal error:  Call to undefined function  woocommerce_hex_lighter() in /home/zematone/public_html/wp-content/plugins/woocommerce/templates/emails/email_footer.php on line 20
+[11-Dec-2011 20:45:39] PHP Fatal error:  Call to undefined function  woocommerce_hex_lighter() in /home/zematone/public_html/wp-content/plugins/woocommerce/templates/emails/email_footer.php on line 20
+[02-Mar-2012 02:26:19] PHP Fatal error:  Call to undefined function  woocommerce_hex_lighter() in /home/zematone/public_html/wp-content/plugins/woocommerce/templates/emails/email_footer.php on line 20
+[13-Jun-2012 21:15:20] PHP Fatal error:  Call to undefined function  woocommerce_hex_lighter() in /home/zematone/public_html/wp-content/plugins/woocommerce/templates/emails/email_footer.php on line 20
+[15-Jun-2012 06:13:20] PHP Fatal error:  Call to undefined function  woocommerce_hex_lighter() in /home/zematone/public_html/wp-content/plugins/woocommerce/templates/emails/email_footer.php on line 20
+[16-Jun-2012 20:55:47] PHP Fatal error:  Call to undefined function  woocommerce_hex_lighter() in /home/zematone/public_html/wp-content/plugins/woocommerce/templates/emails/email_footer.php on line 20
+[18-Jun-2012 06:49:44] PHP Fatal error:  Call to undefined function  woocommerce_hex_lighter() in /home/zematone/public_html/wp-content/plugins/woocommerce/templates/emails/email_footer.php on line 20
+[20-Jun-2012 04:16:49] PHP Fatal error:  Call to undefined function  woocommerce_hex_lighter() in /home/zematone/public_html/wp-content/plugins/woocommerce/templates/emails/email_footer.php on line 20

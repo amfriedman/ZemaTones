@@ -1,0 +1,59 @@
+/*
+Theme Name:     Zema
+Description:    This is the ZemaTones active theme, a child of the \"Abundance\" theme.
+Author:         Adam Friedman
+Template:       abundance
+
+(optional values you can add: Theme URI, Author URI, Version)
+*/
+
+@import url("../abundance/style.css");
+
+/* Main container bug fix */ 
+#main {
+	width: auto;
+	left: 20px;
+}
+
+#top div .thumbnail_container .show_details_button.play_button {
+	background: url(images/icons-musical-note.png) no-repeat 16px center rgba(0, 0, 0, 0.7);
+	/*****/
+}
+.product.type-product .summary .wpaudio-container:before {
+	content: "Play it:";
+	display: block;
+	float: left;
+	position: relative;
+	margin-right: 5px;
+}
+
+.product.type-product .summary .wpaudio-container { display: block !important; }
+
+.product.type-product .summary .wpaudio-container .wpaudio-slide {
+	visibility: hidden;
+	display: none !important;
+	height: 1px !important;
+	width: 1px !important;
+}
+.product.type-product .summary .wpaudio-container a {
+	font-size: 1px !important;
+	color: #FFF !important;
+}
+
+/**
+* About page
+*/
+.page-id-2 ul.slideshow,
+.page-id-2 .slideshow_container {
+	height: 240px !important;	
+}
+
+/**
+* Contact page
+*/
+.page-id-462 .entry-content br {
+	display: none;
+}
+.page-id-462 .entry-content form br {
+	display: block;
+}

@@ -1,0 +1,1 @@
+[29-Nov-2011 21:44:48] PHP Fatal error:  Call to undefined function  do_action() in /home/zematone/public_html/wp-content/plugins/woocommerce/templates/myaccount/login.php on line 3

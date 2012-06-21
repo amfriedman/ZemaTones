@@ -1,0 +1,14 @@
+[29-Nov-2011 20:35:12] PHP Fatal error:  Call to undefined function  add_action() in /home/zematone/public_html/wp-content/plugins/woocommerce/admin/admin-install.php on line 65
+[29-Nov-2011 20:36:30] PHP Fatal error:  Call to undefined function  add_action() in /home/zematone/public_html/wp-content/plugins/woocommerce/admin/admin-import.php on line 91
+[29-Nov-2011 20:38:37] PHP Fatal error:  Call to undefined function  add_action() in /home/zematone/public_html/wp-content/plugins/woocommerce/admin/admin-install.php on line 65
+[29-Nov-2011 20:43:06] PHP Fatal error:  Call to undefined function  apply_filters() in /home/zematone/public_html/wp-content/plugins/woocommerce/admin/admin-settings.php on line 18
+[29-Nov-2011 20:43:31] PHP Fatal error:  Call to undefined function  current_user_can() in /home/zematone/public_html/wp-content/plugins/woocommerce/admin/admin-dashboard.php on line 11
+[29-Nov-2011 20:44:59] PHP Fatal error:  Call to undefined function  add_action() in /home/zematone/public_html/wp-content/plugins/woocommerce/admin/admin-taxonomies.php on line 15
+[29-Nov-2011 20:45:17] PHP Fatal error:  Call to undefined function  add_filter() in /home/zematone/public_html/wp-content/plugins/woocommerce/admin/admin-post-types.php on line 15
+[18-Jun-2012 08:50:44] PHP Fatal error:  Call to undefined function  add_action() in /home/zematone/public_html/wp-content/plugins/woocommerce/admin/admin-install.php on line 65
+[18-Jun-2012 09:08:31] PHP Fatal error:  Call to undefined function  add_action() in /home/zematone/public_html/wp-content/plugins/woocommerce/admin/admin-import.php on line 91
+[18-Jun-2012 09:13:42] PHP Fatal error:  Call to undefined function  add_action() in /home/zematone/public_html/wp-content/plugins/woocommerce/admin/admin-install.php on line 65
+[18-Jun-2012 09:37:23] PHP Fatal error:  Call to undefined function  apply_filters() in /home/zematone/public_html/wp-content/plugins/woocommerce/admin/admin-settings.php on line 18
+[18-Jun-2012 09:47:33] PHP Fatal error:  Call to undefined function  current_user_can() in /home/zematone/public_html/wp-content/plugins/woocommerce/admin/admin-dashboard.php on line 11
+[18-Jun-2012 10:02:33] PHP Fatal error:  Call to undefined function  add_filter() in /home/zematone/public_html/wp-content/plugins/woocommerce/admin/admin-post-types.php on line 15
+[18-Jun-2012 10:29:22] PHP Fatal error:  Call to undefined function  add_action() in /home/zematone/public_html/wp-content/plugins/woocommerce/admin/admin-taxonomies.php on line 15

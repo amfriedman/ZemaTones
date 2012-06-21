@@ -1,0 +1,15 @@
+[29-Nov-2011 20:40:55] PHP Fatal error:  Class 'WP_Widget' not found in /home/zematone/public_html/wp-content/plugins/woocommerce/widgets/widget-cart.php on line 11
+[29-Nov-2011 20:42:14] PHP Fatal error:  Class 'WP_Widget' not found in /home/zematone/public_html/wp-content/plugins/woocommerce/widgets/widget-login.php on line 9
+[29-Nov-2011 20:42:20] PHP Fatal error:  Class 'WP_Widget' not found in /home/zematone/public_html/wp-content/plugins/woocommerce/widgets/widget-cart.php on line 11
+[29-Nov-2011 20:44:09] PHP Fatal error:  Class 'WP_Widget' not found in /home/zematone/public_html/wp-content/plugins/woocommerce/widgets/widget-onsale.php on line 10
+[29-Nov-2011 20:47:28] PHP Fatal error:  Call to undefined function  add_action() in /home/zematone/public_html/wp-content/plugins/woocommerce/widgets/widget-layered_nav.php on line 13
+[29-Nov-2011 20:48:28] PHP Fatal error:  Call to undefined function  add_action() in /home/zematone/public_html/wp-content/plugins/woocommerce/widgets/widget-price_filter.php on line 15
+[29-Nov-2011 20:49:04] PHP Fatal error:  Class 'WP_Widget' not found in /home/zematone/public_html/wp-content/plugins/woocommerce/widgets/widget-best_sellers.php on line 10
+[29-Nov-2011 20:51:18] PHP Fatal error:  Class 'WP_Widget' not found in /home/zematone/public_html/wp-content/plugins/woocommerce/widgets/widget-product_search.php on line 10
+[29-Nov-2011 20:51:43] PHP Fatal error:  Class 'WP_Widget' not found in /home/zematone/public_html/wp-content/plugins/woocommerce/widgets/widget-recent_reviews.php on line 10
+[29-Nov-2011 20:52:26] PHP Fatal error:  Class 'WP_Widget' not found in /home/zematone/public_html/wp-content/plugins/woocommerce/widgets/widget-recently_viewed.php on line 10
+[29-Nov-2011 20:52:40] PHP Fatal error:  Class 'WP_Widget' not found in /home/zematone/public_html/wp-content/plugins/woocommerce/widgets/widget-recent_products.php on line 10
+[29-Nov-2011 20:53:58] PHP Fatal error:  Class 'WP_Widget' not found in /home/zematone/public_html/wp-content/plugins/woocommerce/widgets/widget-featured_products.php on line 11
+[29-Nov-2011 21:01:39] PHP Fatal error:  Class 'WP_Widget' not found in /home/zematone/public_html/wp-content/plugins/woocommerce/widgets/widget-product_tag_cloud.php on line 10
+[29-Nov-2011 21:01:55] PHP Fatal error:  Class 'WP_Widget' not found in /home/zematone/public_html/wp-content/plugins/woocommerce/widgets/widget-product_categories.php on line 10
+[29-Nov-2011 21:01:57] PHP Fatal error:  Class 'WP_Widget' not found in /home/zematone/public_html/wp-content/plugins/woocommerce/widgets/widget-top_rated_products.php on line 11

@@ -1,0 +1,2 @@
+[29-Nov-2011 17:19:16] PHP Fatal error:  Call to undefined function  get_bloginfo() in /home/zematone/public_html/wp-content/themes/abundance/framework/php/inc-autoconfig.php on line 30
+[19-Apr-2012 23:04:00] PHP Fatal error:  Call to undefined function  get_bloginfo() in /home/zematone/public_html/wp-content/themes/abundance/framework/php/inc-autoconfig.php on line 30

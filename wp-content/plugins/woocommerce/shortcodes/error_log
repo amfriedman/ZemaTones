@@ -1,0 +1,1 @@
+[29-Nov-2011 20:48:07] PHP Fatal error:  Call to undefined function  add_action() in /home/zematone/public_html/wp-content/plugins/woocommerce/shortcodes/shortcodes-init.php on line 22

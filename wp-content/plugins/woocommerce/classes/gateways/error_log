@@ -1,0 +1,8 @@
+[29-Nov-2011 21:10:29] PHP Fatal error:  Class 'woocommerce_payment_gateway' not found in /home/zematone/public_html/wp-content/plugins/woocommerce/classes/gateways/gateway-paypal.php on line 12
+[29-Nov-2011 21:13:00] PHP Fatal error:  Class 'woocommerce_payment_gateway' not found in /home/zematone/public_html/wp-content/plugins/woocommerce/classes/gateways/gateway-banktransfer.php on line 12
+[29-Nov-2011 21:14:56] PHP Fatal error:  Class 'woocommerce_payment_gateway' not found in /home/zematone/public_html/wp-content/plugins/woocommerce/classes/gateways/gateway-cheque.php on line 12
+[10-Dec-2011 10:46:34] PHP Fatal error:  Class 'woocommerce_payment_gateway' not found in /home/zematone/public_html/wp-content/plugins/woocommerce/classes/gateways/gateway-cheque.php on line 12
+[11-Dec-2011 20:42:19] PHP Fatal error:  Class 'woocommerce_payment_gateway' not found in /home/zematone/public_html/wp-content/plugins/woocommerce/classes/gateways/gateway-cheque.php on line 12
+[05-Feb-2012 14:39:31] PHP Fatal error:  Class 'woocommerce_payment_gateway' not found in /home/zematone/public_html/wp-content/plugins/woocommerce/classes/gateways/gateway-cheque.php on line 12
+[18-Apr-2012 14:50:04] PHP Fatal error:  Class 'woocommerce_payment_gateway' not found in /home/zematone/public_html/wp-content/plugins/woocommerce/classes/gateways/gateway-cheque.php on line 12
+[26-Apr-2012 21:08:19] PHP Fatal error:  Class 'woocommerce_payment_gateway' not found in /home/zematone/public_html/wp-content/plugins/woocommerce/classes/gateways/gateway-cheque.php on line 12

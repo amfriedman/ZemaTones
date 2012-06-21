@@ -1,0 +1,3 @@
+[29-Nov-2011 21:39:40] PHP Fatal error:  Call to undefined function  _e() in /home/zematone/public_html/wp-content/plugins/woocommerce/templates/checkout/review_order.php on line 7
+[29-Nov-2011 21:41:12] PHP Fatal error:  Call to undefined function  do_action() in /home/zematone/public_html/wp-content/plugins/woocommerce/templates/checkout/form.php on line 1
+[29-Nov-2011 21:43:51] PHP Fatal error:  Call to undefined function  _e() in /home/zematone/public_html/wp-content/plugins/woocommerce/templates/checkout/pay_for_order.php on line 7

@@ -1,0 +1,16 @@
+This document records the manual hacks/changes implemented on the original Abundance theme core code.
+This is a critical record in the event that code gets obliterated in a theme upgrade.  Use this document to re-institute code changes.
+
+# File: /plugins/wp_audio/...
+
+
+
+# File: /themes/abundance/woocommerce-config/config.php
+# Lines: 326
+# Original code:
+
+echo "<a class='button show_details_button $extraClass' href='".get_permalink($post->ID)."'>".__('Show Details','avia_framework')."</a>";
+
+# Replacement code: 
+
+TONS....

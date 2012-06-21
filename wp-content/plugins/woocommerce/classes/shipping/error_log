@@ -1,0 +1,2 @@
+[29-Nov-2011 21:12:22] PHP Fatal error:  Class 'woocommerce_shipping_method' not found in /home/zematone/public_html/wp-content/plugins/woocommerce/classes/shipping/shipping-flat_rate.php on line 12
+[29-Nov-2011 21:14:30] PHP Fatal error:  Class 'woocommerce_shipping_method' not found in /home/zematone/public_html/wp-content/plugins/woocommerce/classes/shipping/shipping-free_shipping.php on line 12

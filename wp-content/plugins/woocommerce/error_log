@@ -1,0 +1,7 @@
+[29-Nov-2011 17:05:09] PHP Fatal error:  Call to undefined function  load_plugin_textdomain() in /home/zematone/public_html/wp-content/plugins/woocommerce/woocommerce.php on line 18
+[29-Nov-2011 17:06:16] PHP Fatal error:  Call to undefined function  add_action() in /home/zematone/public_html/wp-content/plugins/woocommerce/woocommerce_emails.php on line 44
+[29-Nov-2011 17:07:13] PHP Fatal error:  Call to undefined function  get_option() in /home/zematone/public_html/wp-content/plugins/woocommerce/woocommerce_actions.php on line 35
+[29-Nov-2011 17:08:14] PHP Fatal error:  Call to undefined function  add_filter() in /home/zematone/public_html/wp-content/plugins/woocommerce/woocommerce_taxonomy.php on line 316
+[29-Nov-2011 17:09:07] PHP Fatal error:  Call to undefined function  add_filter() in /home/zematone/public_html/wp-content/plugins/woocommerce/woocommerce_templates.php on line 47
+[29-Nov-2011 17:09:59] PHP Fatal error:  Call to undefined function  add_action() in /home/zematone/public_html/wp-content/plugins/woocommerce/woocommerce_template_actions.php on line 13
+[29-Nov-2011 19:30:12] PHP Fatal error:  Call to undefined function  add_action() in /home/zematone/public_html/wp-content/plugins/woocommerce/woocommerce_template_actions.php on line 13

@@ -1,0 +1,15 @@
+#order deny,allow
+#deny from all
+
+
+#allow from 127.0.0.1
+#allow from zematones.com
+
+#RewriteEngine On
+#RewriteRule ^(.*).mp3$ $1.m4r [R=301]
+
+#RewriteCond %{HTTP_REFERER} !^http://(.+\.)?zematones\.com/ [NC]
+#RewriteCond %{HTTP_REFERER} !^$
+#RewriteRule .*\.(m4r|jpe?g|gif|bmp|png)$ [F]
+ 
+# http://zematones.com/wp-content/uploads/woocommerce_uploads/2012/01/0023-mata-mata-by-Abel-Mulugeta.mp3

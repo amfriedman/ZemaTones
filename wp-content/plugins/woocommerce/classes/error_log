@@ -1,0 +1,1 @@
+[29-Nov-2011 20:23:06] PHP Fatal error:  Class 'woocommerce_product' not found in /home/zematone/public_html/wp-content/plugins/woocommerce/classes/product_variation.class.php on line 12

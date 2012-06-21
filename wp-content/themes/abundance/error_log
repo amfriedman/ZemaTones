@@ -1,0 +1,6 @@
+[29-Nov-2011 16:21:35] PHP Fatal error:  Call to undefined function  avia_get_frontpage_template() in /home/zematone/public_html/wp-content/themes/abundance/index.php on line 10
+[29-Nov-2011 17:31:52] PHP Fatal error:  Call to undefined function  avia_get_frontpage_template() in /home/zematone/public_html/wp-content/themes/abundance/index.php on line 10
+[29-Nov-2011 18:50:53] PHP Fatal error:  Call to undefined function  avia_get_frontpage_template() in /home/zematone/public_html/wp-content/themes/abundance/index.php on line 10
+[19-Jan-2012 22:12:41] PHP Fatal error:  Call to undefined function  avia_get_frontpage_template() in /home/zematone/public_html/wp-content/themes/abundance/index.php on line 10
+[19-Apr-2012 22:04:03] PHP Fatal error:  Call to undefined function  avia_get_frontpage_template() in /home/zematone/public_html/wp-content/themes/abundance/index.php on line 10
+[17-Jun-2012 06:52:57] PHP Fatal error:  Call to undefined function  avia_get_frontpage_template() in /home/zematone/public_html/wp-content/themes/abundance/index.php on line 10
